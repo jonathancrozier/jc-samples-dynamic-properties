@@ -1,0 +1,17 @@
+[
+	{
+		"TodoId": 1,
+		"Important": false,
+		"Notes": "2 for £2.20"
+	},
+	{
+		"TodoId": 2,
+		"Important": true,
+		"Notes": "The trash is collected @ 12:30"
+	},
+	{
+		"TodoId": 3,
+		"Important": false,
+		"Notes": "Don't forget to dust the shelves"
+	}
+]

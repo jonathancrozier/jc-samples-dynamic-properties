@@ -1,0 +1,12 @@
+[
+	{
+		"PropertyName": "Important",
+		"DisplayName": "Important",
+		"SystemTypeName": "System.Boolean"
+	},
+	{
+		"PropertyName": "Notes",
+		"DisplayName": "Task Notes",
+		"SystemTypeName": "System.String"
+	}
+]
