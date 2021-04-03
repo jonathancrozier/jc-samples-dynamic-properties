@@ -1,4 +1,4 @@
-# JC.Samples.DynamicProperties
+# Samples - Dynamic Properties
 Add properties to a C# object dynamically at runtime using code emission.
 
 ```csharp
